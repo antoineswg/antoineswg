@@ -1,4 +1,4 @@
-| <a href="https://github.com/antoineswg"><img align="center" src="https://github-readme-stats.vercel.app/api?username=antoineswg&show_icons=true&hide=prs,issues,contribs&theme=discord_old_blurple" alt="My github stats" /></a> | <a href="https://github.com/antoineswg"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoineswg&layout=compact&theme=discord_old_blurple" alt="My most used languages" /></a> |
+| My stack | <a href="https://github.com/antoineswg"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoineswg&layout=compact&theme=discord_old_blurple" alt="My most used languages" /></a> |
 | ------------- | ------------- |
 
 | Favorite project I've worked on | <a href="https://github.com/antoineswg/SNRF"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antoineswg&repo=SNRF&theme=discord_old_blurple" alt='My "SNRF" project' /></a> |
